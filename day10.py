@@ -1,3 +1,6 @@
+## TIP CALCULATOR 
+
+
 myBill = float(input("What was the bill?: "))
 numberOfPeople = int(input("How many people?: "))
 tip = float(input("What percent tip do you want to leave: 15, 18, 20 percent? "))
